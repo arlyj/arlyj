@@ -25,5 +25,5 @@
 
 .center-div .border-bg{
     border: 3px solid rgb(102, 98, 98);
-    font-size: 5vw;
+    font-size: min(max(16px, 4vw), 4vw);
 }
